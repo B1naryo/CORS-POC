@@ -1,4 +1,5 @@
 CORS POC Generator
+
 This is a simple Proof of Concept (PoC) demonstrating Cross-Origin Resource Sharing (CORS) vulnerability in a web environment. The purpose of this script is to generate a proof of concept to identify if a particular server is vulnerable to CORS.
 
 Features
